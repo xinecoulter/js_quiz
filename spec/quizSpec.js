@@ -22,3 +22,6 @@ describe('question1', function() {
   });
 
 });
+
+// Write the next tests yourself!
+// See quiz.js for more details
